@@ -1,0 +1,26 @@
+"","PlayerID","FirstName","LastName","Address","City","State","ZipCode","PhoneNumber","BirthDate","Rating","TeamID"
+"1",1,"Julie","Zion","6754 Lakeview Dr.","Coral Springs","FL","33071","(954) 753-0000","8/8/1986","B",1
+"2",2,"Britta","Zarinsky","4532 Maplewood Dr.","Coral Springs","FL","33065","(954) 753-1000","9/9/1987","B",7
+"3",3,"Jenna","Moldof","100 Oak Lane","Coral Springs","FL","33071","(954) 753-2000","12/26/1987","B",5
+"4",4,"Melissa","Kimble","1101 Ramblewood Rd.","Coral Springs","FL","33071","(954) 344-3000","5/31/1986","C",7
+"5",5,"Jessica","Anderson","1345 University Dr.","Coral Springs","FL","33071","(954) 344-4000","3/16/1987","A",3
+"6",6,"Leslie","Ericson","8922 Coral Ridge Dr.","Coral Springs","FL","33069","(954) 753-5000","12/21/1986","B",3
+"7",7,"Jessica","Goodman","3800 Westview Dr.","Coral Springs","FL","33071","(954) 752-6000","3/16/1986","A",1
+"8",8,"Marci","Barber","4545 Westview Dr.","Coral Springs","FL","33071","(954) 752-7000","5/15/1987","A",4
+"9",9,"Nancy","Dorman","900 Ramblewood Rd","Coral Springs","FL","33071","(954) 344-8000","12/12/1987","A",2
+"10",10,"Julie","Fraser","4566 Parkside Dr.","Coral Springs","FL","33071","(954) 344-9000","4/4/1986","C",4
+"11",11,"Kelly","James","800 Coral Springs Dr.","Coral Springs","FL","33169","(954) 753-1111","7/1/1985","A",3
+"12",12,"Sherrie","Green","6600 Main Street","Coral Springs","FL","33065","(954) 753-2222","8/22/1986","A",4
+"13",13,"Priscilla","Pearson","2450 Maplewood Dr.","Coral Springs","FL","33065","(954) 752-3333","2/3/1985","B",3
+"14",14,"Kerri","Stone","550 Sample Road","Coral Springs","FL","33067","(954) 753-4444","4/4/1986","C",5
+"15",15,"Toni","Moldof","522 Coral Springs Dr.","Coral Springs","FL","33069","(954) 752-5555","11/11/1985","B",5
+"16",16,"Shelly","Parker","1001 Coral Ridge Dr.","Coral Springs","FL","33069","(954) 753-6666","11/24/1987","C",2
+"17",17,"Amy","Kinzer","922 Sample Road","Coral Springs","FL","33067","(954) 752-7777","5/5/1987","C",6
+"18",18,"Mary","Citron","500 Oak Lane","Coral Springs","FL","33071","(954) 753-8888","3/16/1986","A",6
+"19",19,"Jessica","Grauer","1881 Vestal Road","Coral Springs","FL","33071","(954) 732-9999","3/16/1986","A",1
+"20",20,"Sonja","Freed","2210 Main Street","Coral Springs","FL","33065","(954) 753-1234","7/1/1987","B",6
+"21",21,"Lori","Pryor","2001 Parkside Dr.","Coral Springs","FL","33071","(954) 344-5678","6/18/1987","C",NA
+"22",22,"Lauren","Howard","1520 University Dr.","Coral Springs","FL","33071","(954) 752-9012","11/1/1986","A",NA
+"23",23,"Katie","Remmen","2200 Cedarwood Dr.","Coral Springs","FL","33067","(954) 753-3456","4/18/1985","A",NA
+"24",24,"Katherine","Akong","1705 Ramblewood Dr.","Coral Springs","FL","33071","(954) 344-7890","2/2/1986","C",NA
+"25",25,"Lilly","Taboas","1025 Coral Springs Dr.","Coral Springs","FL","33069","(954) 752-1234","5/22/1987","B",NA
